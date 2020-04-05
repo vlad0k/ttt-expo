@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/ttt-expo/static/js/app.541c9f98.chunk.js",
+    "app.js.map": "/ttt-expo/static/js/app.541c9f98.chunk.js.map",
+    "runtime~app.js": "/ttt-expo/static/js/runtime~app.a50be560.js",
+    "runtime~app.js.map": "/ttt-expo/static/js/runtime~app.a50be560.js.map",
+    "static/js/2.c9e89e0b.chunk.js": "/ttt-expo/static/js/2.c9e89e0b.chunk.js",
+    "static/js/2.c9e89e0b.chunk.js.map": "/ttt-expo/static/js/2.c9e89e0b.chunk.js.map",
+    "apple/icons/icon_180x180.png": "/ttt-expo/apple/icons/icon_180x180.png",
+    "apple/icons/icon_192x192.png": "/ttt-expo/apple/icons/icon_192x192.png",
+    "apple/icons/icon_512x512.png": "/ttt-expo/apple/icons/icon_512x512.png",
+    "apple/splash/icon_1125x2436.png": "/ttt-expo/apple/splash/icon_1125x2436.png",
+    "apple/splash/icon_1136x640.png": "/ttt-expo/apple/splash/icon_1136x640.png",
+    "apple/splash/icon_1242x2208.png": "/ttt-expo/apple/splash/icon_1242x2208.png",
+    "apple/splash/icon_1242x2688.png": "/ttt-expo/apple/splash/icon_1242x2688.png",
+    "apple/splash/icon_1334x750.png": "/ttt-expo/apple/splash/icon_1334x750.png",
+    "apple/splash/icon_1792x828.png": "/ttt-expo/apple/splash/icon_1792x828.png",
+    "apple/splash/icon_2208x1242.png": "/ttt-expo/apple/splash/icon_2208x1242.png",
+    "apple/splash/icon_2436x1125.png": "/ttt-expo/apple/splash/icon_2436x1125.png",
+    "apple/splash/icon_2688x1242.png": "/ttt-expo/apple/splash/icon_2688x1242.png",
+    "apple/splash/icon_640x1136.png": "/ttt-expo/apple/splash/icon_640x1136.png",
+    "apple/splash/icon_750x1334.png": "/ttt-expo/apple/splash/icon_750x1334.png",
+    "apple/splash/icon_828x1792.png": "/ttt-expo/apple/splash/icon_828x1792.png",
+    "favicon.ico": "/ttt-expo/favicon.ico",
+    "index.html": "/ttt-expo/index.html",
+    "manifest.json": "/ttt-expo/manifest.json",
+    "precache-manifest.98122e2fbea3f790bdf2aa6d3aaa3423.js": "/ttt-expo/precache-manifest.98122e2fbea3f790bdf2aa6d3aaa3423.js",
+    "serve.json": "/ttt-expo/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a50be560.js",
+    "static/js/2.c9e89e0b.chunk.js",
+    "static/js/app.541c9f98.chunk.js"
+  ]
+}

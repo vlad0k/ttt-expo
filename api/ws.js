@@ -1,5 +1,5 @@
 export const mySocket = (path, gameId) => {
-  const socket = new WebSocket(`ws://46.175.40.108:3001/${path}/${gameId}`);
+  const socket = new WebSocket(`wss://ttt-expo-server.herokuapp.com/${path}/${gameId}`);
 
   socket.onopen = function() {
     console.log("Соединение установлено. id=", gameId);

@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'http://46.175.40.108:3001/'
+  baseURL: 'https://ttt-expo-server.herokuapp.com/'
 });
 
 export const tictactoeAPI = {
